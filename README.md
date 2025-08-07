@@ -11,6 +11,8 @@ It uses an **array in memory**, so data is lost when the server restarts.
 2. Run:
 
 ```bash
+npm install express
+
 npm install
 ```
 3. Then run:
